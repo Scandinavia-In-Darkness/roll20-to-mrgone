@@ -1,0 +1,11 @@
+[project]
+name = "character-sheets"
+version = "0.1.0"
+requires-python = ">=3.10"
+license = "CC0-1.0"
+license-files = ["LICENSE"]
+dependencies = [
+    "fonttools>=4",
+    "pypdf>=5",
+    "pyyaml>=6",
+]

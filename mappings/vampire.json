@@ -1,0 +1,668 @@
+{
+ "template": "VtR1-Page_Editable.pdf",
+ "url": "https://mrgone.rocksolidshells.com/pdf/VtR/VtR1-Page_Editable.pdf",
+ "sheettypes": [
+  "vampire1"
+ ],
+ "text": {
+  "name": "{name}",
+  "chronicle": "{Player}",
+  "Virtue": "{Virtue}",
+  "Vice": "{Vice}",
+  "concept": "{Concept}",
+  "clan": "{Chronicle}",
+  "bloodline": "{Faction}",
+  "covenant": "{GroupName}",
+  "size": "{base_size|5}",
+  "speed": "{=Strength+Dexterity+5}",
+  "defense": "{defense_base}",
+  "armor": "{armor_general0}/{armor_ballistic0}",
+  "IM": "{=Dexterity+Composure}",
+  "VPT1": "{potency}"
+ },
+ "lines": {
+  "{flaws}": [
+   "flaws1",
+   "flaws2",
+   "flaws3"
+  ]
+ },
+ "dots": {
+  "Intelligence": [
+   "dot1",
+   "dot2",
+   "dot3",
+   "dot4",
+   "dot5"
+  ],
+  "Wits": [
+   "dot9",
+   "dot10",
+   "dot11",
+   "dot12",
+   "dot13"
+  ],
+  "Resolve": [
+   "dot17",
+   "dot18",
+   "dot19",
+   "dot20",
+   "dot21"
+  ],
+  "Strength": [
+   "dot25",
+   "dot26",
+   "dot27",
+   "dot28",
+   "dot29"
+  ],
+  "Dexterity": [
+   "dot33",
+   "dot34",
+   "dot35",
+   "dot36",
+   "dot37"
+  ],
+  "Stamina": [
+   "dot41",
+   "dot42",
+   "dot43",
+   "dot44",
+   "dot45"
+  ],
+  "Presence": [
+   "dot49",
+   "dot50",
+   "dot51",
+   "dot52",
+   "dot53"
+  ],
+  "Manipulation": [
+   "dot57",
+   "dot58",
+   "dot59",
+   "dot60",
+   "dot61"
+  ],
+  "Composure": [
+   "dot65",
+   "dot66",
+   "dot67",
+   "dot68",
+   "dot69"
+  ],
+  "Academics": [
+   "dot73",
+   "dot74",
+   "dot75",
+   "dot76",
+   "dot77"
+  ],
+  "Crafts": [
+   "dot81",
+   "dot82",
+   "dot83",
+   "dot84",
+   "dot85"
+  ],
+  "Computer": [
+   "dot89",
+   "dot90",
+   "dot91",
+   "dot92",
+   "dot93"
+  ],
+  "Investigation": [
+   "dot97",
+   "dot98",
+   "dot99",
+   "dot100",
+   "dot101"
+  ],
+  "Medicine": [
+   "dot105",
+   "dot106",
+   "dot107",
+   "dot108",
+   "dot109"
+  ],
+  "Occult": [
+   "dot113",
+   "dot114",
+   "dot115",
+   "dot116",
+   "dot117"
+  ],
+  "Politics": [
+   "dot121",
+   "dot122",
+   "dot123",
+   "dot124",
+   "dot125"
+  ],
+  "Science": [
+   "dot129",
+   "dot130",
+   "dot131",
+   "dot132",
+   "dot133"
+  ],
+  "Athletics": [
+   "dot137",
+   "dot138",
+   "dot139",
+   "dot140",
+   "dot141"
+  ],
+  "Brawl": [
+   "dot145",
+   "dot146",
+   "dot147",
+   "dot148",
+   "dot149"
+  ],
+  "Drive": [
+   "dot153",
+   "dot154",
+   "dot155",
+   "dot156",
+   "dot157"
+  ],
+  "Firearms": [
+   "dot161",
+   "dot162",
+   "dot163",
+   "dot164",
+   "dot165"
+  ],
+  "Larceny": [
+   "dot169",
+   "dot170",
+   "dot171",
+   "dot172",
+   "dot173"
+  ],
+  "Stealth": [
+   "dot177",
+   "dot178",
+   "dot179",
+   "dot180",
+   "dot181"
+  ],
+  "Survival": [
+   "dot185",
+   "dot186",
+   "dot187",
+   "dot188",
+   "dot189"
+  ],
+  "Weaponry": [
+   "dot193",
+   "dot194",
+   "dot195",
+   "dot196",
+   "dot197"
+  ],
+  "AnimalKen": [
+   "dot201",
+   "dot202",
+   "dot203",
+   "dot204",
+   "dot205"
+  ],
+  "Empathy": [
+   "dot209",
+   "dot210",
+   "dot211",
+   "dot212",
+   "dot213"
+  ],
+  "Expression": [
+   "dot217",
+   "dot218",
+   "dot219",
+   "dot220",
+   "dot221"
+  ],
+  "Intimidation": [
+   "dot225",
+   "dot226",
+   "dot227",
+   "dot228",
+   "dot229"
+  ],
+  "Persuasion": [
+   "dot233",
+   "dot234",
+   "dot235",
+   "dot236",
+   "dot237"
+  ],
+  "Socialize": [
+   "dot241",
+   "dot242",
+   "dot243",
+   "dot244",
+   "dot245"
+  ],
+  "Streetwise": [
+   "dot249",
+   "dot250",
+   "dot251",
+   "dot252",
+   "dot253"
+  ],
+  "Subterfuge": [
+   "dot257",
+   "dot258",
+   "dot259",
+   "dot260",
+   "dot261"
+  ],
+  "health": [
+   "hdot1",
+   "hdot2",
+   "hdot3",
+   "hdot4",
+   "hdot5",
+   "hdot6",
+   "hdot7",
+   "hdot8",
+   "hdot9",
+   "hdot10",
+   "hdot11",
+   "hdot12"
+  ],
+  "willpower": [
+   "willdot1",
+   "willdot2",
+   "willdot3",
+   "willdot4",
+   "willdot5",
+   "willdot6",
+   "willdot7",
+   "willdot8",
+   "willdot9",
+   "willdot10"
+  ],
+  "potency": [
+   "bpdot1",
+   "bpdot2",
+   "bpdot3",
+   "bpdot4",
+   "bpdot5",
+   "bpdot6",
+   "bpdot7",
+   "bpdot8",
+   "bpdot9",
+   "bpdot10"
+  ],
+  "morality": [
+   "humandot10",
+   "humandot9",
+   "humandot8",
+   "humandot7",
+   "humandot6",
+   "humandot5",
+   "humandot4",
+   "humandot3",
+   "humandot2",
+   "humandot1"
+  ]
+ },
+ "specialties": {
+  "fields": {
+   "Academics": "abilities1",
+   "Crafts": "abilities2",
+   "Computer": "abilities3",
+   "Investigation": "abilities4",
+   "Medicine": "abilities5",
+   "Occult": "abilities6",
+   "Politics": "abilities7",
+   "Science": "abilities8",
+   "Athletics": "abilities9",
+   "Brawl": "abilities10",
+   "Drive": "abilities11",
+   "Firearms": "abilities12",
+   "Larceny": "abilities13",
+   "Stealth": "abilities14",
+   "Survival": "abilities15",
+   "Weaponry": "abilities16",
+   "AnimalKen": "abilities17",
+   "Empathy": "abilities18",
+   "Expression": "abilities19",
+   "Intimidation": "abilities20",
+   "Persuasion": "abilities21",
+   "Socialize": "abilities22",
+   "Streetwise": "abilities23",
+   "Subterfuge": "abilities24"
+  }
+ },
+ "lists": [
+  {
+   "label": "disciplines",
+   "sources": [
+    {
+     "keys": {
+      "Animalism": "Animalism",
+      "Auspex": "Auspex",
+      "Celerity": "Celerity",
+      "Dominate": "Dominate",
+      "Majesty": "Majesty",
+      "Nightmare": "Nightmare",
+      "Obfuscate": "Obfuscate",
+      "Protean": "Protean",
+      "Resilience": "Resilience",
+      "Vigor": "Vigor",
+      "Crúac": "Crúac",
+      "ThebanSorcery": "Theban Sorcery"
+     }
+    },
+    {
+     "range": [
+      0,
+      15
+     ],
+     "name": "discipline{i}_name",
+     "value": "discipline{i}"
+    }
+   ],
+   "skip_zero": true,
+   "rows": [
+    {
+     "text": {
+      "disciplines1": "{@name}"
+     },
+     "dots": {
+      "@value": [
+       "dot265",
+       "dot266",
+       "dot267",
+       "dot268",
+       "dot269"
+      ]
+     }
+    },
+    {
+     "text": {
+      "disciplines2": "{@name}"
+     },
+     "dots": {
+      "@value": [
+       "dot273",
+       "dot274",
+       "dot275",
+       "dot276",
+       "dot277"
+      ]
+     }
+    },
+    {
+     "text": {
+      "disciplines3": "{@name}"
+     },
+     "dots": {
+      "@value": [
+       "dot281",
+       "dot282",
+       "dot283",
+       "dot284",
+       "dot285"
+      ]
+     }
+    },
+    {
+     "text": {
+      "disciplines4": "{@name}"
+     },
+     "dots": {
+      "@value": [
+       "dot289",
+       "dot290",
+       "dot291",
+       "dot292",
+       "dot293"
+      ]
+     }
+    },
+    {
+     "text": {
+      "disciplines5": "{@name}"
+     },
+     "dots": {
+      "@value": [
+       "dot297",
+       "dot298",
+       "dot299",
+       "dot300",
+       "dot301"
+      ]
+     }
+    },
+    {
+     "text": {
+      "disciplines6": "{@name}"
+     },
+     "dots": {
+      "@value": [
+       "dot305",
+       "dot306",
+       "dot307",
+       "dot308",
+       "dot309"
+      ]
+     }
+    },
+    {
+     "text": {
+      "disciplines7": "{@name}"
+     },
+     "dots": {
+      "@value": [
+       "dot313",
+       "dot314",
+       "dot315",
+       "dot316",
+       "dot317"
+      ]
+     }
+    },
+    {
+     "text": {
+      "disciplines8": "{@name}"
+     },
+     "dots": {
+      "@value": [
+       "dot321",
+       "dot322",
+       "dot323",
+       "dot324",
+       "dot325"
+      ]
+     }
+    },
+    {
+     "text": {
+      "disciplines9": "{@name}"
+     },
+     "dots": {
+      "@value": [
+       "dot329",
+       "dot330",
+       "dot331",
+       "dot332",
+       "dot333"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "range": [
+    1,
+    15
+   ],
+   "require": "merit{i}_name",
+   "rows": [
+    {
+     "text": {
+      "merits1": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot337",
+       "dot338",
+       "dot339",
+       "dot340",
+       "dot341"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits2": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot345",
+       "dot346",
+       "dot347",
+       "dot348",
+       "dot349"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits3": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot353",
+       "dot354",
+       "dot355",
+       "dot356",
+       "dot357"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits4": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot361",
+       "dot362",
+       "dot363",
+       "dot364",
+       "dot365"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits5": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot369",
+       "dot370",
+       "dot371",
+       "dot372",
+       "dot373"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits6": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot377",
+       "dot378",
+       "dot379",
+       "dot380",
+       "dot381"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits7": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot385",
+       "dot386",
+       "dot387",
+       "dot388",
+       "dot389"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits8": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot393",
+       "dot394",
+       "dot395",
+       "dot396",
+       "dot397"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits9": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot401",
+       "dot402",
+       "dot403",
+       "dot404",
+       "dot405"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "clear": [
+  "check1",
+  "check2",
+  "check3",
+  "check4",
+  "check5",
+  "check6",
+  "check7",
+  "check8",
+  "check9",
+  "check10",
+  "check11",
+  "check12",
+  "check13",
+  "check14",
+  "check15",
+  "check16",
+  "check17",
+  "check18",
+  "check19",
+  "check20",
+  "check21",
+  "check22",
+  "check23",
+  "check24",
+  "check25",
+  "check26",
+  "check27",
+  "check28",
+  "check29",
+  "check30"
+ ]
+}

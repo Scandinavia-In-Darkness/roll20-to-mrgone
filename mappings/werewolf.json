@@ -1,0 +1,2412 @@
+{
+ "template": "Forsaken2-Page_Editable.pdf",
+ "url": "https://mrgone.rocksolidshells.com/pdf/WtF/Forsaken2-Page_Editable.pdf",
+ "sheettypes": [
+  "werewolf1"
+ ],
+ "text": {
+  "Name": "{name}",
+  "Chronicle": "{Player}",
+  "Virtue": "{Virtue}",
+  "Vice": "{Vice}",
+  "concept": "{Concept}",
+  "Auspice": "{Chronicle}",
+  "Tribe": "{Faction}",
+  "lodge": "{GroupName}",
+  "forms1": "{base_size|5}",
+  "forms2": "{defense_base}",
+  "forms3": "{=Dexterity+Composure+fast_reflexes}",
+  "forms4": "{=Strength+Dexterity+5+fleet_of_foot}",
+  "forms5": "{armor_general0}/{armor_ballistic0}",
+  "forms6": "{=Wits+Composure}"
+ },
+ "dots": {
+  "Intelligence": [
+   "dot1",
+   "dot2",
+   "dot3",
+   "dot4",
+   "dot5"
+  ],
+  "Wits": [
+   "dot9",
+   "dot10",
+   "dot11",
+   "dot12",
+   "dot13"
+  ],
+  "Resolve": [
+   "dot17",
+   "dot18",
+   "dot19",
+   "dot20",
+   "dot21"
+  ],
+  "Strength": [
+   "dot25",
+   "dot26",
+   "dot27",
+   "dot28",
+   "dot29"
+  ],
+  "Dexterity": [
+   "dot33",
+   "dot34",
+   "dot35",
+   "dot36",
+   "dot37"
+  ],
+  "Stamina": [
+   "dot41",
+   "dot42",
+   "dot43",
+   "dot44",
+   "dot45"
+  ],
+  "Presence": [
+   "dot49",
+   "dot50",
+   "dot51",
+   "dot52",
+   "dot53"
+  ],
+  "Manipulation": [
+   "dot57",
+   "dot58",
+   "dot59",
+   "dot60",
+   "dot61"
+  ],
+  "Composure": [
+   "dot65",
+   "dot66",
+   "dot67",
+   "dot68",
+   "dot69"
+  ],
+  "Academics": [
+   "dot73",
+   "dot74",
+   "dot75",
+   "dot76",
+   "dot77"
+  ],
+  "Computer": [
+   "dot81",
+   "dot82",
+   "dot83",
+   "dot84",
+   "dot85"
+  ],
+  "Crafts": [
+   "dot89",
+   "dot90",
+   "dot91",
+   "dot92",
+   "dot93"
+  ],
+  "Investigation": [
+   "dot97",
+   "dot98",
+   "dot99",
+   "dot100",
+   "dot101"
+  ],
+  "Medicine": [
+   "dot105",
+   "dot106",
+   "dot107",
+   "dot108",
+   "dot109"
+  ],
+  "Occult": [
+   "dot113",
+   "dot114",
+   "dot115",
+   "dot116",
+   "dot117"
+  ],
+  "Politics": [
+   "dot121",
+   "dot122",
+   "dot123",
+   "dot124",
+   "dot125"
+  ],
+  "Science": [
+   "dot129",
+   "dot130",
+   "dot131",
+   "dot132",
+   "dot133"
+  ],
+  "Athletics": [
+   "dot137",
+   "dot138",
+   "dot139",
+   "dot140",
+   "dot141"
+  ],
+  "Brawl": [
+   "dot145",
+   "dot146",
+   "dot147",
+   "dot148",
+   "dot149"
+  ],
+  "Drive": [
+   "dot153",
+   "dot154",
+   "dot155",
+   "dot156",
+   "dot157"
+  ],
+  "Firearms": [
+   "dot161",
+   "dot162",
+   "dot163",
+   "dot164",
+   "dot165"
+  ],
+  "Larceny": [
+   "dot169",
+   "dot170",
+   "dot171",
+   "dot172",
+   "dot173"
+  ],
+  "Stealth": [
+   "dot177",
+   "dot178",
+   "dot179",
+   "dot180",
+   "dot181"
+  ],
+  "Survival": [
+   "dot185",
+   "dot186",
+   "dot187",
+   "dot188",
+   "dot189"
+  ],
+  "Weaponry": [
+   "dot193",
+   "dot194",
+   "dot195",
+   "dot196",
+   "dot197"
+  ],
+  "AnimalKen": [
+   "dot201",
+   "dot202",
+   "dot203",
+   "dot204",
+   "dot205"
+  ],
+  "Empathy": [
+   "dot209",
+   "dot210",
+   "dot211",
+   "dot212",
+   "dot213"
+  ],
+  "Expression": [
+   "dot217",
+   "dot218",
+   "dot219",
+   "dot220",
+   "dot221"
+  ],
+  "Intimidation": [
+   "dot225",
+   "dot226",
+   "dot227",
+   "dot228",
+   "dot229"
+  ],
+  "Persuasion": [
+   "dot233",
+   "dot234",
+   "dot235",
+   "dot236",
+   "dot237"
+  ],
+  "Socialize": [
+   "dot241",
+   "dot242",
+   "dot243",
+   "dot244",
+   "dot245"
+  ],
+  "Streetwise": [
+   "dot249",
+   "dot250",
+   "dot251",
+   "dot252",
+   "dot253"
+  ],
+  "Subterfuge": [
+   "dot257",
+   "dot258",
+   "dot259",
+   "dot260",
+   "dot261"
+  ],
+  "health": [
+   "hdot1",
+   "hdot2",
+   "hdot3",
+   "hdot4",
+   "hdot5",
+   "hdot6",
+   "hdot7",
+   "hdot8",
+   "hdot9",
+   "hdot10",
+   "hdot11",
+   "hdot12",
+   "hdot13",
+   "hdot14",
+   "hdot15",
+   "hdot16"
+  ],
+  "willpower": [
+   "willdot1",
+   "willdot2",
+   "willdot3",
+   "willdot4",
+   "willdot5",
+   "willdot6",
+   "willdot7",
+   "willdot8",
+   "willdot9",
+   "willdot10"
+  ],
+  "potency": [
+   "bpdot1",
+   "bpdot2",
+   "bpdot3",
+   "bpdot4",
+   "bpdot5",
+   "bpdot6",
+   "bpdot7",
+   "bpdot8",
+   "bpdot9",
+   "bpdot10"
+  ],
+  "morality": [
+   "humandot10",
+   "humandot9",
+   "humandot8",
+   "humandot7",
+   "humandot6",
+   "humandot5",
+   "humandot4",
+   "humandot3",
+   "humandot2",
+   "humandot1"
+  ]
+ },
+ "lines": {
+  "{flaws}": [
+   "flaws1",
+   "flaws2",
+   "flaws3"
+  ]
+ },
+ "specialties": {
+  "fields": {
+   "Academics": "abilities1",
+   "Computer": "abilities2",
+   "Crafts": "abilities3",
+   "Investigation": "abilities4",
+   "Medicine": "abilities5",
+   "Occult": "abilities6",
+   "Politics": "abilities7",
+   "Science": "abilities8",
+   "Athletics": "abilities9",
+   "Brawl": "abilities10",
+   "Drive": "abilities11",
+   "Firearms": "abilities12",
+   "Larceny": "abilities13",
+   "Stealth": "abilities14",
+   "Survival": "abilities15",
+   "Weaponry": "abilities16",
+   "AnimalKen": "abilities17",
+   "Empathy": "abilities18",
+   "Expression": "abilities19",
+   "Intimidation": "abilities20",
+   "Persuasion": "abilities21",
+   "Socialize": "abilities22",
+   "Streetwise": "abilities23",
+   "Subterfuge": "abilities24"
+  },
+  "unmatched": []
+ },
+ "named": [
+  {
+   "range": [
+    1,
+    1
+   ],
+   "name": "merit1_name",
+   "value": "merit1",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    2,
+    2
+   ],
+   "name": "merit2_name",
+   "value": "merit2",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    3,
+    3
+   ],
+   "name": "merit3_name",
+   "value": "merit3",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    4,
+    4
+   ],
+   "name": "merit4_name",
+   "value": "merit4",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    5,
+    5
+   ],
+   "name": "merit5_name",
+   "value": "merit5",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    6,
+    6
+   ],
+   "name": "merit6_name",
+   "value": "merit6",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    7,
+    7
+   ],
+   "name": "merit7_name",
+   "value": "merit7",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    8,
+    8
+   ],
+   "name": "merit8_name",
+   "value": "merit8",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    9,
+    9
+   ],
+   "name": "merit9_name",
+   "value": "merit9",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    10,
+    10
+   ],
+   "name": "merit10_name",
+   "value": "merit10",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    11,
+    11
+   ],
+   "name": "merit11_name",
+   "value": "merit11",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    12,
+    12
+   ],
+   "name": "merit12_name",
+   "value": "merit12",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    13,
+    13
+   ],
+   "name": "merit13_name",
+   "value": "merit13",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    14,
+    14
+   ],
+   "name": "merit14_name",
+   "value": "merit14",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    15,
+    15
+   ],
+   "name": "merit15_name",
+   "value": "merit15",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    0,
+    0
+   ],
+   "name": "othertrait0_name",
+   "value": "othertrait0",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    1,
+    1
+   ],
+   "name": "othertrait1_name",
+   "value": "othertrait1",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    2,
+    2
+   ],
+   "name": "othertrait2_name",
+   "value": "othertrait2",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    3,
+    3
+   ],
+   "name": "othertrait3_name",
+   "value": "othertrait3",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    4,
+    4
+   ],
+   "name": "othertrait4_name",
+   "value": "othertrait4",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    5,
+    5
+   ],
+   "name": "othertrait5_name",
+   "value": "othertrait5",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    6,
+    6
+   ],
+   "name": "othertrait6_name",
+   "value": "othertrait6",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    7,
+    7
+   ],
+   "name": "othertrait7_name",
+   "value": "othertrait7",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    8,
+    8
+   ],
+   "name": "othertrait8_name",
+   "value": "othertrait8",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    9,
+    9
+   ],
+   "name": "othertrait9_name",
+   "value": "othertrait9",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    10,
+    10
+   ],
+   "name": "othertrait10_name",
+   "value": "othertrait10",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    11,
+    11
+   ],
+   "name": "othertrait11_name",
+   "value": "othertrait11",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    12,
+    12
+   ],
+   "name": "othertrait12_name",
+   "value": "othertrait12",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    13,
+    13
+   ],
+   "name": "othertrait13_name",
+   "value": "othertrait13",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    14,
+    14
+   ],
+   "name": "othertrait14_name",
+   "value": "othertrait14",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  },
+  {
+   "range": [
+    15,
+    15
+   ],
+   "name": "othertrait15_name",
+   "value": "othertrait15",
+   "rows": {
+    "Purity": [
+     "dot361",
+     "dot362",
+     "dot363",
+     "dot364",
+     "dot365"
+    ],
+    "Glory": [
+     "dot369",
+     "dot370",
+     "dot371",
+     "dot372",
+     "dot373"
+    ],
+    "Honor": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Honour": [
+     "dot377",
+     "dot378",
+     "dot379",
+     "dot380",
+     "dot381"
+    ],
+    "Wisdom": [
+     "dot385",
+     "dot386",
+     "dot387",
+     "dot388",
+     "dot389"
+    ],
+    "Cunning": [
+     "dot393",
+     "dot394",
+     "dot395",
+     "dot396",
+     "dot397"
+    ]
+   }
+  }
+ ],
+ "lists": [
+  {
+   "range": [
+    1,
+    15
+   ],
+   "require": "merit{i}_name",
+   "exclude": [
+    "Purity",
+    "Glory",
+    "Honor",
+    "Honour",
+    "Wisdom",
+    "Cunning",
+    "Renown"
+   ],
+   "rows": [
+    {
+     "text": {
+      "merits1": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot265",
+       "dot266",
+       "dot267",
+       "dot268",
+       "dot269"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits2": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot273",
+       "dot274",
+       "dot275",
+       "dot276",
+       "dot277"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits3": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot281",
+       "dot282",
+       "dot283",
+       "dot284",
+       "dot285"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits4": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot289",
+       "dot290",
+       "dot291",
+       "dot292",
+       "dot293"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits5": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot297",
+       "dot298",
+       "dot299",
+       "dot300",
+       "dot301"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits6": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot305",
+       "dot306",
+       "dot307",
+       "dot308",
+       "dot309"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits7": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot313",
+       "dot314",
+       "dot315",
+       "dot316",
+       "dot317"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits8": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot321",
+       "dot322",
+       "dot323",
+       "dot324",
+       "dot325"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits9": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot329",
+       "dot330",
+       "dot331",
+       "dot332",
+       "dot333"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits10": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot337",
+       "dot338",
+       "dot339",
+       "dot340",
+       "dot341"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits11": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot345",
+       "dot346",
+       "dot347",
+       "dot348",
+       "dot349"
+      ]
+     }
+    },
+    {
+     "text": {
+      "merits12": "{merit{i}_name}"
+     },
+     "dots": {
+      "merit{i}": [
+       "dot353",
+       "dot354",
+       "dot355",
+       "dot356",
+       "dot357"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "label": "gifts/rites",
+   "range": [
+    0,
+    15
+   ],
+   "require": "othertrait{i}_name",
+   "exclude": [
+    "Purity",
+    "Glory",
+    "Honor",
+    "Honour",
+    "Wisdom",
+    "Cunning",
+    "Renown"
+   ],
+   "rows": [
+    {
+     "text": {
+      "gifts1": "{othertrait{i}_name}",
+      "gifts2": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "gifts4": "{othertrait{i}_name}",
+      "gifts5": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "gifts7": "{othertrait{i}_name}",
+      "gifts8": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "gifts10": "{othertrait{i}_name}",
+      "gifts11": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "gifts13": "{othertrait{i}_name}",
+      "gifts14": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "gifts16": "{othertrait{i}_name}",
+      "gifts17": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "gifts19": "{othertrait{i}_name}",
+      "gifts20": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "gifts22": "{othertrait{i}_name}",
+      "gifts23": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "gifts25": "{othertrait{i}_name}",
+      "gifts26": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "gifts28": "{othertrait{i}_name}",
+      "gifts29": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "rites1": "{othertrait{i}_name}",
+      "rites2": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "rites4": "{othertrait{i}_name}",
+      "rites5": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "rites7": "{othertrait{i}_name}",
+      "rites8": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "rites10": "{othertrait{i}_name}",
+      "rites11": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "rites13": "{othertrait{i}_name}",
+      "rites14": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "rites16": "{othertrait{i}_name}",
+      "rites17": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "rites19": "{othertrait{i}_name}",
+      "rites20": "Dots: {othertrait{i}}"
+     }
+    },
+    {
+     "text": {
+      "rites22": "{othertrait{i}_name}",
+      "rites23": "Dots: {othertrait{i}}"
+     }
+    }
+   ]
+  },
+  {
+   "range": [
+    0,
+    4
+   ],
+   "require": "attack_name{i}",
+   "rows": [
+    {
+     "text": {
+      "combata1": "{attack_name{i}}",
+      "combata5": "{attack_damage{i}}",
+      "combata9": "{attack_range{i}}",
+      "combata17": "{attack_magazine{i}}"
+     }
+    },
+    {
+     "text": {
+      "combata2": "{attack_name{i}}",
+      "combata6": "{attack_damage{i}}",
+      "combata10": "{attack_range{i}}",
+      "combata18": "{attack_magazine{i}}"
+     }
+    },
+    {
+     "text": {
+      "combata3": "{attack_name{i}}",
+      "combata7": "{attack_damage{i}}",
+      "combata11": "{attack_range{i}}",
+      "combata19": "{attack_magazine{i}}"
+     }
+    },
+    {
+     "text": {
+      "combata4": "{attack_name{i}}",
+      "combata8": "{attack_damage{i}}",
+      "combata12": "{attack_range{i}}",
+      "combata20": "{attack_magazine{i}}"
+     }
+    }
+   ]
+  }
+ ],
+ "clear": [
+  "check1",
+  "check2",
+  "check3",
+  "check4",
+  "check5",
+  "check6",
+  "check7",
+  "check8",
+  "check9",
+  "check10",
+  "check11",
+  "check12",
+  "check13",
+  "check14",
+  "check15",
+  "check16",
+  "check17",
+  "check18",
+  "check19",
+  "check20",
+  "check21",
+  "check22",
+  "check23",
+  "check24",
+  "check25",
+  "check26",
+  "check27",
+  "check28",
+  "check29",
+  "check30"
+ ],
+ "forms": [
+  "Dalu",
+  "Gauru",
+  "Urshul",
+  "Urhan"
+ ],
+ "when": [
+  {
+   "if": "Dalu.Strength",
+   "text": {
+    "forms7": "{Dalu.Strength}",
+    "forms8": "{Dalu.Stamina}",
+    "forms9": "{Dalu.Manipulation}",
+    "forms10": "{Dalu.base_size}",
+    "forms11": "{Dalu.defense_base}",
+    "forms12": "{=Dexterity+Composure+fast_reflexes+0}",
+    "forms13": "{=Strength+Dexterity+5+fleet_of_foot+1}",
+    "forms14": "{Dalu.armor_general0}/{Dalu.armor_ballistic0}",
+    "forms15": "{=Wits+Composure+2}"
+   }
+  },
+  {
+   "if": "Gauru.Strength",
+   "text": {
+    "forms16": "{Gauru.Strength}",
+    "forms17": "{Gauru.Dexterity}",
+    "forms18": "{Gauru.Stamina}",
+    "forms19": "{Gauru.base_size}",
+    "forms20": "{Gauru.defense_base}",
+    "forms21": "{=Dexterity+Composure+fast_reflexes+1}",
+    "forms22": "{=Strength+Dexterity+5+fleet_of_foot+4}",
+    "forms23": "{Gauru.armor_general0}/{Gauru.armor_ballistic0}",
+    "forms24": "{=Wits+Composure+3}"
+   }
+  },
+  {
+   "if": "Urshul.Strength",
+   "text": {
+    "forms25": "{Urshul.Strength}",
+    "forms26": "{Urshul.Dexterity}",
+    "forms27": "{Urshul.Stamina}",
+    "forms28": "{Urshul.Manipulation}",
+    "forms29": "{Urshul.base_size}",
+    "forms30": "{Urshul.defense_base}",
+    "forms31": "{=Dexterity+Composure+fast_reflexes+2}",
+    "forms32": "{=Strength+Dexterity+5+fleet_of_foot+7}",
+    "forms33": "{Urshul.armor_general0}/{Urshul.armor_ballistic0}",
+    "forms34": "{=Wits+Composure+3}"
+   }
+  },
+  {
+   "if": "Urhan.Strength",
+   "text": {
+    "forms35": "{Urhan.Dexterity}",
+    "forms36": "{Urhan.Stamina}",
+    "forms37": "{Urhan.base_size}",
+    "forms38": "{Urhan.defense_base}",
+    "forms39": "{=Dexterity+Composure+fast_reflexes+2}",
+    "forms40": "{=Strength+Dexterity+5+fleet_of_foot+5}",
+    "forms41": "{Urhan.armor_general0}/{Urhan.armor_ballistic0}",
+    "forms42": "{=Wits+Composure+4}"
+   }
+  }
+ ]
+}
